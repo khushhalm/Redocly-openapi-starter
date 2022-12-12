@@ -4,7 +4,7 @@ info:
   title: BrowserStack.com
   termsOfService: 'https://example.com/terms/'
   contact:
-    email: contact@example.com
+    email: contact@browserstack.com
     url: 'http://example.com/contact'
   license:
     name: Apache 2.0
